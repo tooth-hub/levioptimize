@@ -1,0 +1,26 @@
+{
+    "format_version": 2,
+    "tooth": "github.com/tooth-hub/levioptimize",
+    "version": "0.0.1",
+    "info": {
+        "name": "LeviOptimize",
+        "description": "LeviLamina's official optimizing BDS plugin",
+        "author": "LiteLDev",
+        "source": "github.com/LiteLDev/LeviOptimize",
+        "tags": [
+            "plugin",
+            "ll"
+        ]
+    },
+    "dependencies": {
+        "github.com/tooth-hub/levilamina": "0.2.x"
+    },
+    "files": {
+        "place": [
+            {
+                "src": "LeviOptimize/*",
+                "dest": "plugins/LeviOptimize"
+            }
+        ]
+    }
+}
