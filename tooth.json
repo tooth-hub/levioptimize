@@ -12,7 +12,7 @@
             "ll"
         ]
     },
-    "dependencies": {
+    "prerequisites": {
         "github.com/tooth-hub/levilamina": "0.2.x"
     },
     "files": {
